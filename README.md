@@ -1,3 +1,5 @@
+lien du repo github :  https://github.com/arthurgmt/Jeu_alumettes
+
 # Jeu des allumettes 
 ###  C/C++ - ALTN51
 
